@@ -1,1 +1,1 @@
-# aaaaaaa
+# aaaaaaa.m3u
